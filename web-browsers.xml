@@ -1,0 +1,11 @@
+<application>
+  <component name="WebBrowsersConfiguration" default="alternative">
+    <browser id="5db64a30-64f4-4373-b063-e94d5b833b44" name="Chrome" family="CHROME" path="$USER_HOME$/AppData/Local/Google/Chrome/Application/chrome.exe" />
+    <browser id="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" name="Firefox" family="FIREFOX" />
+    <browser id="e5120d43-2c3f-47ef-9f26-65e539e05186" name="Safari" family="SAFARI" active="false" />
+    <browser id="53e2f627-b1a7-4dfa-bfa7-5b83cc034776" name="Opera" family="OPERA" active="false" />
+    <browser id="2e5675ae-9c7b-4e2d-b5af-3dbcf83cbae6" name="Yandex" family="CHROME" path="$USER_HOME$/AppData/Local/Google/Chrome/Application/chrome.exe" active="false" />
+    <browser id="16bf23d4-93e0-4ffc-bfd6-cb13575177b0" name="Internet Explorer" family="EXPLORER" />
+    <browser id="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" name="Edge" family="EXPLORER" path="microsoft-edge" />
+  </component>
+</application>
